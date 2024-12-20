@@ -5,7 +5,7 @@
 
 ### Reach me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danurrizad242@gmail.com)](mailto:danurrizad242@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danurrizad-ryan-darmoko/)](https://www.linkedin.com/in/danurrizad-ryan-darmoko/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danurrizad)](https://www.linkedin.com/in/danurrizad)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/danurrizad_/)](https://instagram.com/danurrizad_)
 
 
